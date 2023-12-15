@@ -1,0 +1,19 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.navbar-right{
+    position: absolute;
+    left: 100%;
+    transform: translatex(-100%);
+}
+.navbar-right{
+    position: absolute;
+    left: 0%;
+    transform: translatex(-0%);
+}
